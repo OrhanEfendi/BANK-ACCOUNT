@@ -1,0 +1,15 @@
+.body_cover {
+  background-color: black;
+  background-image: url("../images/ve.svg");
+}
+
+.forms_label {
+  margin-left: 100px;
+  background-color: #242424;
+  height: 500px;
+  display: flex;
+  justify-content: flex-end;
+}
+.path_disp {
+  display: none;
+}
